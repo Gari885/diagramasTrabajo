@@ -18,6 +18,7 @@ public class Product {
 	}
 	
 	public float total() {
+		return qty * price;
 	}
 	
 }
