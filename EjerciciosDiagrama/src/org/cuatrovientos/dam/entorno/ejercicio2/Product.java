@@ -18,7 +18,6 @@ public class Product {
 	}
 	
 	public float total() {
-		return price;
 	}
 	
 }
